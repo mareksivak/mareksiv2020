@@ -23,8 +23,8 @@
 
     .project p, .m-project p {
         max-width: 30rem;
-        padding-top: 2rem;
-        padding-bottom: 2rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
     }
 
     .work .work-title {
